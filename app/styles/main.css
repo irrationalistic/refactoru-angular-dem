@@ -169,10 +169,10 @@
 .drop-hover {
   border: solid 1px #9C9C9C;
 }
-.content  {
+/*.content  {
   z-index: 0;
 }
-
+*/
 .pieces {
   z-index: 1000;
   margin-top: 10px;
